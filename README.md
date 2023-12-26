@@ -1,2 +1,3 @@
 # LASClientPlus
-A minecraft fabric client
+始于2022年12月
+致力于让玩家拥有更多的功能与并流畅共存
