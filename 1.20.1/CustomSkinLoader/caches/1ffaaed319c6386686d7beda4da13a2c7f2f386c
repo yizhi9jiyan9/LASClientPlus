@@ -1,0 +1,9 @@
+{
+  "id" : "4fc5a9d4edb8491d80e1fca639eef936",
+  "name" : "fallenXL",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcxNDc0ODM4MDUxMiwKICAicHJvZmlsZUlkIiA6ICI0ZmM1YTlkNGVkYjg0OTFkODBlMWZjYTYzOWVlZjkzNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJmYWxsZW5YTCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iZWQ4ZjcyNWE0ZjhiNjJmYTk0MmE3YTRmZTJjYWZiM2I2ZWVjYTBkZTA0MzRjNTUzNTMwMmRiZWJjOWM5NGFkIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

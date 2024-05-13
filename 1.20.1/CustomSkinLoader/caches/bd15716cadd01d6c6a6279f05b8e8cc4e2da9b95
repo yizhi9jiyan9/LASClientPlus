@@ -1,0 +1,9 @@
+{
+  "id" : "47dbc5c4d3e44b92b241dde2ed212f8a",
+  "name" : "Shadow",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcxNDg4NTgyNDcwNCwKICAicHJvZmlsZUlkIiA6ICI0N2RiYzVjNGQzZTQ0YjkyYjI0MWRkZTJlZDIxMmY4YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTaGFkb3ciLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWY5YzliOWM5OWYwYTNlMWMyM2FiOWY5M2E3NTgxZDJhZDI2MWRhMzU5YThkNGU3ZjlkZWZjMzQ0ZmYzMTVkMyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "c13d8c7ca5114ad68d8e6d14b76f454f",
+  "name" : "JIAREN_1",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcxNDg4NTk2NjgwOCwKICAicHJvZmlsZUlkIiA6ICJjMTNkOGM3Y2E1MTE0YWQ2OGQ4ZTZkMTRiNzZmNDU0ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJKSUFSRU5fMSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80YmQxY2IxM2YyYTdiMGIyYTcwZTVkNGYwYjgyYzYxNWMwYWNjMDMyOTQwOGJlZjE5ZGI4OWVmZDBmODg2MjQ1IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

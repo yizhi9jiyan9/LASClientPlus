@@ -1,0 +1,9 @@
+{
+  "id" : "84eb426795dc4bb187f08a4c37b1c0a0",
+  "name" : "Gunpowder",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcxNDc0MzM2NzAwMywKICAicHJvZmlsZUlkIiA6ICI4NGViNDI2Nzk1ZGM0YmIxODdmMDhhNGMzN2IxYzBhMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJHdW5wb3dkZXIiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2Y3ZDcyMjZhYzNiYTY5Y2UxNGU2MzBkN2UzZGUxY2NkYTZlZTUxNzhmNTNkMzczZmE2YTI2ZTQwOTI1MGU0NyIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

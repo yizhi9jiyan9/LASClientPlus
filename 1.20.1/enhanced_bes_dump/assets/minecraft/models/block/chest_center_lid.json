@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_chest_center_lid",
+  "textures": {
+    "chest": "entity/chest/normal",
+    "particle": "block/chest_particle"
+  }
+}

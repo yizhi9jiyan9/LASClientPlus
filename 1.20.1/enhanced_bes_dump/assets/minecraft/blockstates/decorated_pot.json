@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "builtin:decorated_pot",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "builtin:decorated_pot",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "builtin:decorated_pot"
+    },
+    "facing=west": {
+      "model": "builtin:decorated_pot",
+      "y": 270
+    }
+  }
+}

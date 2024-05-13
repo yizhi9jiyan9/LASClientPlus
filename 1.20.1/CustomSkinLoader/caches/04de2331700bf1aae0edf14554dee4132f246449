@@ -1,0 +1,9 @@
+{
+  "id" : "4da5d1b4518d41b993d57b60248304a0",
+  "name" : "Lele32",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcxNTQzOTg0MzU1NCwKICAicHJvZmlsZUlkIiA6ICI0ZGE1ZDFiNDUxOGQ0MWI5OTNkNTdiNjAyNDgzMDRhMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJMZWxlMzIiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzlkMzUwNjBkZWVlYjBjYzIzMTYxYTg1ZTUwOWYzN2E0MDNmOTcyMzU2YTdhMTU1Zjk3YzNlYWQwNGFlMTk5MCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}
