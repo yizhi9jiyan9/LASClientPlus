@@ -1,0 +1,9 @@
+{
+  "id" : "c1c3ddb291a048a6851aeadb737ee10e",
+  "name" : "ABxl_lly",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcxNTUxOTcwMzAxNCwKICAicHJvZmlsZUlkIiA6ICJjMWMzZGRiMjkxYTA0OGE2ODUxYWVhZGI3MzdlZTEwZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBQnhsX2xseSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82MzY3YWQ2MDc5OTYyOGM1ZGIxY2QzYjFmYTI4ZTU4MDlhZjVlYTNhOTI1ODA1YTQzN2Y1YmIyMzExNjJjMWQ0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

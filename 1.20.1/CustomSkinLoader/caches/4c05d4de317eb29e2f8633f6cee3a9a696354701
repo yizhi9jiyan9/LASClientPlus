@@ -1,0 +1,9 @@
+{
+  "id" : "f7d90e14b97f4c8c84ca974fec7db221",
+  "name" : "DuskScorpio",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcxNTUwOTc2MzI2NCwKICAicHJvZmlsZUlkIiA6ICJmN2Q5MGUxNGI5N2Y0YzhjODRjYTk3NGZlYzdkYjIyMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJEdXNrU2NvcnBpbyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85ZmNhYjYwNzZiYWZiZmUzM2JhMmY5ZDRlOThiYzI0ODJmYmMzMzAwMjhhN2ViMzVhYWU3YjRkMjQ4YWNkZTIyIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

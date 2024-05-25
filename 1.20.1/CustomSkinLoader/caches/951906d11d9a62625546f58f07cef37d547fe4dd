@@ -1,0 +1,9 @@
+{
+  "id" : "d8f126e14d8547ff92ea44c22509603c",
+  "name" : "Exsenlish_Kim",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcxNDU2ODgxMTEwNCwKICAicHJvZmlsZUlkIiA6ICJkOGYxMjZlMTRkODU0N2ZmOTJlYTQ0YzIyNTA5NjAzYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJFeHNlbmxpc2hfS2ltIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FhNGUxZWM5ODI3NTk2NDg2NzgxOTgwNTQ1MmI3Y2NlODI0NzVjNWUwN2EwMzc3M2YwYjdiYTM5MjA2M2JjYTIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

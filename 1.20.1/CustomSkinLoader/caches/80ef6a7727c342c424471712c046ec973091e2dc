@@ -1,0 +1,9 @@
+{
+  "id" : "fe968e56980a4d4181bef08036dee55b",
+  "name" : "zippo119",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcxNDU2ODgxMDUwMCwKICAicHJvZmlsZUlkIiA6ICJmZTk2OGU1Njk4MGE0ZDQxODFiZWYwODAzNmRlZTU1YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ6aXBwbzExOSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mNTk0MTAzZTE1ZTM5NzQ3M2E3YjhkNDAwODZiZDkwNDBjMzk5MWVjMzA2OGQ1Mzc3MjkwZDVmMzQyYTI1YTMwIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

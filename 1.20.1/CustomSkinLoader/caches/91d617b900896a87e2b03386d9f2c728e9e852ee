@@ -1,0 +1,9 @@
+{
+  "id" : "70333b7612054694b1d4c9fdd35136d4",
+  "name" : "xixi_lin",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcxNDcyNDEzMDE1NCwKICAicHJvZmlsZUlkIiA6ICI3MDMzM2I3NjEyMDU0Njk0YjFkNGM5ZmRkMzUxMzZkNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4aXhpX2xpbiIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xMjE2NTlmOWMzNzE5ZjA4ZjM4NTc2NjFlNDkwNDkwYTNiMjkyZDc0OTYzNjdmYTNiYTVhMTcyOTUwN2JhOTlmIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

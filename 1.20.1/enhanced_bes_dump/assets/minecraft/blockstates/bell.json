@@ -1,0 +1,68 @@
+{
+  "variants": {
+    "attachment=single_wall,facing=east": {
+      "model": "builtin:bell_wall",
+      "y": 360
+    },
+    "attachment=double_wall,facing=west": {
+      "model": "builtin:bell_between_walls",
+      "y": 180
+    },
+    "attachment=ceiling,facing=south": {
+      "model": "builtin:bell_ceiling",
+      "y": 180
+    },
+    "attachment=floor,facing=west": {
+      "model": "builtin:bell_floor",
+      "y": 270
+    },
+    "attachment=ceiling,facing=east": {
+      "model": "builtin:bell_ceiling",
+      "y": 450
+    },
+    "attachment=double_wall,facing=north": {
+      "model": "builtin:bell_between_walls",
+      "y": 270
+    },
+    "attachment=double_wall,facing=east": {
+      "model": "builtin:bell_between_walls",
+      "y": 360
+    },
+    "attachment=single_wall,facing=south": {
+      "model": "builtin:bell_wall",
+      "y": 90
+    },
+    "attachment=single_wall,facing=west": {
+      "model": "builtin:bell_wall",
+      "y": 180
+    },
+    "attachment=floor,facing=south": {
+      "model": "builtin:bell_floor",
+      "y": 180
+    },
+    "attachment=ceiling,facing=west": {
+      "model": "builtin:bell_ceiling",
+      "y": 270
+    },
+    "attachment=floor,facing=east": {
+      "model": "builtin:bell_floor",
+      "y": 450
+    },
+    "attachment=double_wall,facing=south": {
+      "model": "builtin:bell_between_walls",
+      "y": 90
+    },
+    "attachment=single_wall,facing=north": {
+      "model": "builtin:bell_wall",
+      "y": 270
+    },
+    "attachment=ceiling,facing=north": {
+      "model": "builtin:bell_ceiling",
+      "y": 360
+    },
+    "attachment=floor,facing=north": {
+      "model": "builtin:bell_floor",
+      "y": 360
+    }
+  }
+}

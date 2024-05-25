@@ -1,0 +1,9 @@
+{
+  "id" : "db9b9497ab7546d29c99fffa661c19e2",
+  "name" : "JIAZAI",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcxNDg5NzU3NDU3MiwKICAicHJvZmlsZUlkIiA6ICJkYjliOTQ5N2FiNzU0NmQyOWM5OWZmZmE2NjFjMTllMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJKSUFaQUkiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTYwYTVmMzEwYTAwZThjY2MyYmYwNDk1NmI2ZjZjODYzMWYyYTQ4NmY1NmFhNmYxOTQ3ZGJiZTEwYzY4NGU2ZCIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

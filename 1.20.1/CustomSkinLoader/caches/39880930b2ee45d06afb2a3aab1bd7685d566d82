@@ -1,0 +1,9 @@
+{
+  "id" : "86c8be7623bc4c69a486949e8656107b",
+  "name" : "bot_awa",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcxNDcwOTQ1OTAzNiwKICAicHJvZmlsZUlkIiA6ICI4NmM4YmU3NjIzYmM0YzY5YTQ4Njk0OWU4NjU2MTA3YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJib3RfYXdhIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2VkNDg5Y2Y5YTE4MmFiN2ZkMjgwY2JkZjAyN2FhNDA5NTAxY2NlYjFkODNhNjliMjgwZmFlNzJlNDczZjNmM2EiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

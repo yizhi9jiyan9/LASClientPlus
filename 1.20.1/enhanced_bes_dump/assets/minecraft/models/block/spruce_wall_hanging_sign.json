@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_hanging_sign",
+  "textures": {
+    "sign": "entity/signs/hanging/spruce",
+    "particle": "block/particle_hanging_sign_spruce"
+  }
+}

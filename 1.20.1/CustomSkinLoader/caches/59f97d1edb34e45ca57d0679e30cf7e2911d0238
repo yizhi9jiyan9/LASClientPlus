@@ -1,0 +1,9 @@
+{
+  "id" : "4ead191c0bc3492bb5d4d2dd5be8ac05",
+  "name" : "I_Love_Elysia_",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcxNDgzMzUzMDk3OCwKICAicHJvZmlsZUlkIiA6ICI0ZWFkMTkxYzBiYzM0OTJiYjVkNGQyZGQ1YmU4YWMwNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJJX0xvdmVfRWx5c2lhXyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iMDU4ZTc2NTI2MGFmNGY1MzBmMGUwNWFkM2EzZDc4MmIwN2NhZDA5ZWMwZDY5ZDEwNWM4YzNkOTM3YjA1ZmZjIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

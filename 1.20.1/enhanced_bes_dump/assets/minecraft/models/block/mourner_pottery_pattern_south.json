@@ -1,0 +1,6 @@
+{
+  "parent": "block/template_pottery_pattern_south",
+  "textures": {
+    "pattern": "minecraft:entity/decorated_pot/mourner_pottery_pattern"
+  }
+}

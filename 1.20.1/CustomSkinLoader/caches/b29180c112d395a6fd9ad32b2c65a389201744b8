@@ -1,0 +1,9 @@
+{
+  "id" : "a8f3ec9499854aca9f322d564ea1caa7",
+  "name" : "SB",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcxNDgyNjc2NTAyOCwKICAicHJvZmlsZUlkIiA6ICJhOGYzZWM5NDk5ODU0YWNhOWYzMjJkNTY0ZWExY2FhNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJTQiIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lMTU2ZGFlN2EwNjUwNzc5ZGM2M2VkZmM1MjFhMzk4YTE3ZjBhMTMyNzc5MDU5MDg4M2VhNDg3N2Y1ZmI4NDg0IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

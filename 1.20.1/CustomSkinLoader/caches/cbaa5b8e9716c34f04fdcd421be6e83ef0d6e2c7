@@ -1,0 +1,9 @@
+{
+  "id" : "8388a227cffe41b19d14f5abd1462d6f",
+  "name" : "bot_afk",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcxNTQ0MDIyNjkwOCwKICAicHJvZmlsZUlkIiA6ICI4Mzg4YTIyN2NmZmU0MWIxOWQxNGY1YWJkMTQ2MmQ2ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJib3RfYWZrIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2U1Y2RjMzI0M2IyMTUzYWIyOGExNTk4NjFiZTY0M2E0ZmMxZTNjMTdkMjkxY2RkM2U1N2E3ZjM3MGFkNjc2ZjMiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_chest_right_trunk",
+  "textures": {
+    "chest": "entity/chest/normal_right",
+    "particle": "block/chest_particle"
+  }
+}

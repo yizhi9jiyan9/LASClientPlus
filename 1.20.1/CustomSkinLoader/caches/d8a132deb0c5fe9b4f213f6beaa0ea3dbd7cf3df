@@ -1,0 +1,9 @@
+{
+  "id" : "84ca418d01c742439e3c56548ba0dd47",
+  "name" : "Eris_Grerat",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcxNTYwMDIxMjcwNiwKICAicHJvZmlsZUlkIiA6ICI4NGNhNDE4ZDAxYzc0MjQzOWUzYzU2NTQ4YmEwZGQ0NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJFcmlzX0dyZXJhdCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80NDNmODgyYjBlYWYxOWE4OGIzNDllM2YxYTMyODJhMWVhZjQwYjllOWY4YjlmOGI2N2FjNjQzZDZhM2E4ODQ2IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

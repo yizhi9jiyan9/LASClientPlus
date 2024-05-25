@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_chest_center",
+  "textures": {
+    "chest": "entity/chest/christmas",
+    "particle": "block/christmas_chest_particle"
+  }
+}

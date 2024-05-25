@@ -1,0 +1,9 @@
+{
+  "id" : "af0275c3a01c482592ca26e130f924e3",
+  "name" : "zero333",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcxNDU2ODgxMTA1NCwKICAicHJvZmlsZUlkIiA6ICJhZjAyNzVjM2EwMWM0ODI1OTJjYTI2ZTEzMGY5MjRlMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ6ZXJvMzMzIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzUzMmEyMmQ0ZDZmYjc3ZDMwODUwMWNhYTM1MTc2ZDY0OWQ2ODk2MGJiYzk5ZmE1MDlmY2M4OTliNjMyYTliYmYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}
