@@ -1,4 +1,4 @@
-# LASClientPlus
+# Lazy Alien Server : ClientPlus
 始于2022年12月      
 ## 计划 / Plans   
 完成 LCP1.20.1   
