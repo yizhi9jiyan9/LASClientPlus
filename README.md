@@ -1,4 +1,4 @@
-# Lazy Alien Server : Client Plus
+# Lazy Alien Server : Client +
 始于2022年12月      
 ## 计划 / Plans   
 完成 LCP1.20.1   
