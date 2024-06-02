@@ -1,9 +1,0 @@
-{
-  "id" : "8cf8bb0f4b73476d85d0dcc8e42aa87e",
-  "name" : "Half_tea",
-  "properties" : [ {
-    "name" : "textures",
-    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcxNDc0NjIxOTUyMiwKICAicHJvZmlsZUlkIiA6ICI4Y2Y4YmIwZjRiNzM0NzZkODVkMGRjYzhlNDJhYTg3ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJIYWxmX3RlYSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82NTE2ZjczOTZkMjY3YTI4YjczNzZiOTkwMTE1YmYwMDQ1MTQ5NTc2MjczMjI1OWFmNGU1MDg4MDVhOWE3NGJkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
-  } ],
-  "profileActions" : [ ]
-}

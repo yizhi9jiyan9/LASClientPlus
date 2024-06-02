@@ -1,9 +1,0 @@
-{
-  "id" : "acd3dd9f7efa4e42beb0fc23225cc15a",
-  "name" : "Kevin_2014",
-  "properties" : [ {
-    "name" : "textures",
-    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcxNDgyNjkxNDQ0OSwKICAicHJvZmlsZUlkIiA6ICJhY2QzZGQ5ZjdlZmE0ZTQyYmViMGZjMjMyMjVjYzE1YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJLZXZpbl8yMDE0IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgwNzAyMjgzNTA4YTlhNGQzNmJkYTgxMTk5YzAxODBjZTZmODNkZjQ5MzI2YzNiM2RhYTg3MDIxOTBlOTY2M2UiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
-  } ],
-  "profileActions" : [ ]
-}

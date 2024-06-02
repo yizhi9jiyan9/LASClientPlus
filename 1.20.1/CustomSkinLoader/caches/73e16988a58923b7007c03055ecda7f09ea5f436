@@ -1,9 +1,0 @@
-{
-  "id" : "2e49ca41355941d8a75c29718772a19e",
-  "name" : "Sarumi_QAQ",
-  "properties" : [ {
-    "name" : "textures",
-    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcxNDgzMTkzOTkzNCwKICAicHJvZmlsZUlkIiA6ICIyZTQ5Y2E0MTM1NTk0MWQ4YTc1YzI5NzE4NzcyYTE5ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTYXJ1bWlfUUFRIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Q4YWYxZjJlOThmMWZjNTUyOTEwN2NmNDQwMGMwNjZlZDFhMGFmZjM5MWU0ZWI3M2U5ZjBiNGVkYWJjYjIzYWIiCiAgICB9CiAgfQp9"
-  } ],
-  "profileActions" : [ ]
-}

@@ -1,7 +1,0 @@
-{
-  "parent": "block/template_bed_head",
-  "textures": {
-    "bed": "entity/bed/gray",
-    "particle": "block/gray_bed_particle"
-  }
-}

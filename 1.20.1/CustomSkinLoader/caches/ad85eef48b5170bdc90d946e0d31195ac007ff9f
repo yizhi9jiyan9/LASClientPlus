@@ -1,9 +1,0 @@
-{
-  "id" : "8a37e479cf014bc29b2e298813724c90",
-  "name" : "Bot_9",
-  "properties" : [ {
-    "name" : "textures",
-    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcxNTUxMzMyNTk0MCwKICAicHJvZmlsZUlkIiA6ICI4YTM3ZTQ3OWNmMDE0YmMyOWIyZTI5ODgxMzcyNGM5MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJCb3RfOSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zMWY0NzdlYjFhN2JlZWU2MzFjMmNhNjRkMDZmOGY2OGZhOTNhMzM4NmQwNDQ1MmFiMjdmNDNhY2RmMWI2MGNiIgogICAgfQogIH0KfQ=="
-  } ],
-  "profileActions" : [ ]
-}

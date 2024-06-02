@@ -1,9 +1,0 @@
-{
-  "id" : "d85093338e394d09a2e3e582e40a4944",
-  "name" : "Petris5256",
-  "properties" : [ {
-    "name" : "textures",
-    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcxNDcwNzg4OTA4MywKICAicHJvZmlsZUlkIiA6ICJkODUwOTMzMzhlMzk0ZDA5YTJlM2U1ODJlNDBhNDk0NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJQZXRyaXM1MjU2IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzUyNzhkMDMyOWZhNzVjZjUwNzcwNmFiMmMzY2Q2ODNiNDY2Nzc0MTFlM2ZhMjAwN2NjZjZhZDNkNDY2MjQ0NjYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
-  } ],
-  "profileActions" : [ ]
-}

@@ -1,9 +1,0 @@
-{
-  "id" : "8049caee6a5b4d81a7e0403f1ee61cc9",
-  "name" : "wregR",
-  "properties" : [ {
-    "name" : "textures",
-    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcxMzYxODY4Njg0MSwKICAicHJvZmlsZUlkIiA6ICI4MDQ5Y2FlZTZhNWI0ZDgxYTdlMDQwM2YxZWU2MWNjOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ3cmVnUiIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mMDk1MjAyMGYzYmU4NzlkMmMzYTBkZjU0NTZjZmUzODUxMjVmY2I1ODg5OWJmNjdhNzY3YjdjZmMwYjQ4N2NhIgogICAgfQogIH0KfQ=="
-  } ],
-  "profileActions" : [ ]
-}

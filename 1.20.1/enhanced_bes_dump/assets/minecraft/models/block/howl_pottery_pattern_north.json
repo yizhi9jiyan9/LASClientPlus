@@ -1,6 +1,0 @@
-{
-  "parent": "block/template_pottery_pattern_north",
-  "textures": {
-    "pattern": "minecraft:entity/decorated_pot/howl_pottery_pattern"
-  }
-}

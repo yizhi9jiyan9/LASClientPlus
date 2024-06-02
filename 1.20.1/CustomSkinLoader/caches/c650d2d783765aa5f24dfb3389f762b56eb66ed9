@@ -1,9 +1,0 @@
-{
-  "id" : "0b5a7416af104f3f81da4506b0c70659",
-  "name" : "Rancho03",
-  "properties" : [ {
-    "name" : "textures",
-    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcxNDgyNjkxNDE4MiwKICAicHJvZmlsZUlkIiA6ICIwYjVhNzQxNmFmMTA0ZjNmODFkYTQ1MDZiMGM3MDY1OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSYW5jaG8wMyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zYjUzYTgxOGJjZmYwYzM4MzE0MzViNTQ5OTY0ZmMwNTRmNTAzM2RhZTEzZDQ5ZTY2ZWUwZjVlZTIyOWRiZTNmIgogICAgfQogIH0KfQ=="
-  } ],
-  "profileActions" : [ ]
-}

@@ -1,7 +1,0 @@
-{
-  "parent": "block/template_bed_head",
-  "textures": {
-    "bed": "entity/bed/magenta",
-    "particle": "block/magenta_bed_particle"
-  }
-}

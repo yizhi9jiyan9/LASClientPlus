@@ -1,9 +1,0 @@
-{
-  "id" : "b5d5b8c4f74d4c189f88ff5c67a9a821",
-  "name" : "ShengYu6",
-  "properties" : [ {
-    "name" : "textures",
-    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcxNDgxMjUzMzQ3MiwKICAicHJvZmlsZUlkIiA6ICJiNWQ1YjhjNGY3NGQ0YzE4OWY4OGZmNWM2N2E5YTgyMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTaGVuZ1l1NiIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mOGQyNDIwZTFlMWRkNTYxY2U1NGI3NmM4ZjkzN2YwOTdkMTMyMWFiMWRmMzA1ZGViOTBkMTk0OGEzNGRjZTYiCiAgICB9CiAgfQp9"
-  } ],
-  "profileActions" : [ ]
-}

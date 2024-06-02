@@ -1,7 +1,0 @@
-{
-  "maxChorusItemThrows": 2048,
-  "toolBreakWarning": false,
-  "maxEnchantItemThrows": 2048,
-  "commandExecutionLimit": 65536,
-  "acceptC2CPackets": false
-}

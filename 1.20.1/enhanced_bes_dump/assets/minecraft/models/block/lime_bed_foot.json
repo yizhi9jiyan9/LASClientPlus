@@ -1,7 +1,0 @@
-{
-  "parent": "block/template_bed_foot",
-  "textures": {
-    "bed": "entity/bed/lime",
-    "particle": "block/lime_bed_particle"
-  }
-}

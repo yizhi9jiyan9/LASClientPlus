@@ -1,9 +1,0 @@
-{
-  "id" : "d77d472348544d0c933d0ed18754e0b3",
-  "name" : "phq_qi",
-  "properties" : [ {
-    "name" : "textures",
-    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcxNDgzMTAzMDY1MywKICAicHJvZmlsZUlkIiA6ICJkNzdkNDcyMzQ4NTQ0ZDBjOTMzZDBlZDE4NzU0ZTBiMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJwaHFfcWkiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjhiNDljNGMzYzM4ZjZhZWZjZTc2ZjMxMmI4YjFkMjQ5YTVjYjJkZjMzMzFhMDMwOGFhZjEzYzg3ZmVlOTM2IgogICAgfQogIH0KfQ=="
-  } ],
-  "profileActions" : [ ]
-}

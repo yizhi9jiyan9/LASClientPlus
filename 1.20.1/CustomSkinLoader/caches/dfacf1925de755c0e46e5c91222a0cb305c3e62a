@@ -1,9 +1,0 @@
-{
-  "id" : "a6b8591f4f9a42fcac06775168895dec",
-  "name" : "SDTyh",
-  "properties" : [ {
-    "name" : "textures",
-    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcxNDgxMjc1NzQxMSwKICAicHJvZmlsZUlkIiA6ICJhNmI4NTkxZjRmOWE0MmZjYWMwNjc3NTE2ODg5NWRlYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJTRFR5aCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81Y2NlMjAzM2Q1YWQxNjQzNDk5OTY3OWFlMjMxODNhYTZkNjk4MDM5NzMyZWNlYjhlMzNiNDAyZDYzY2M3NGRiIgogICAgfQogIH0KfQ=="
-  } ],
-  "profileActions" : [ ]
-}

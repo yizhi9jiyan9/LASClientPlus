@@ -1,7 +1,0 @@
-{
-  "parent": "block/template_chest_center",
-  "textures": {
-    "chest": "entity/chest/trapped",
-    "particle": "block/trapped_chest_particle"
-  }
-}

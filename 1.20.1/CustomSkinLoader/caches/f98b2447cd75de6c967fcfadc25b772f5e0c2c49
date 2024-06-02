@@ -1,9 +1,0 @@
-{
-  "id" : "5ba3496868914f77bb18bd51c536fb5a",
-  "name" : "B_pears",
-  "properties" : [ {
-    "name" : "textures",
-    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcxNTUxMzMyNTc0MCwKICAicHJvZmlsZUlkIiA6ICI1YmEzNDk2ODY4OTE0Zjc3YmIxOGJkNTFjNTM2ZmI1YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJCX3BlYXJzIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RlODlmYjZiY2QzYjFlYmE3YzFjYmFkZWNjYWQ4ZGJjMTUxMDU4ZWRjYTBmNjQwOGVhYTdhYTEwZTFjMTBjMWIiCiAgICB9CiAgfQp9"
-  } ],
-  "profileActions" : [ ]
-}

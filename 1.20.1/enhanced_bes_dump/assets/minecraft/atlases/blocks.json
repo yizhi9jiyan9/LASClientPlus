@@ -1,1 +1,0 @@
-{"sources":[{"source":"entity/signs","prefix":"entity/signs/","type":"minecraft:directory"},{"source":"entity/signs/hanging","prefix":"entity/signs/hanging/","type":"minecraft:directory"},{"source":"gui/hanging_signs","prefix":"block/particle_hanging_sign_","type":"minecraft:directory"}]}

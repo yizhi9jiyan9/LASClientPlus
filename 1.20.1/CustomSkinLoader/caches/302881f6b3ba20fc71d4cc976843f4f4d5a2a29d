@@ -1,9 +1,0 @@
-{
-  "id" : "bd4b479d58404d3f994601c5f4c9cf3c",
-  "name" : "qnxztx",
-  "properties" : [ {
-    "name" : "textures",
-    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcxNDc0MzY5MDIyOCwKICAicHJvZmlsZUlkIiA6ICJiZDRiNDc5ZDU4NDA0ZDNmOTk0NjAxYzVmNGM5Y2YzYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJxbnh6dHgiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmIwNTZkNjU4ZWQ3ODEwNjY5ZGQwMzdiMjcwMjg1NDFkOTEwOWIyZmVkMTUzMDNkYWFiM2Y0NWEwNjhkODcwNyIKICAgIH0KICB9Cn0="
-  } ],
-  "profileActions" : [ ]
-}

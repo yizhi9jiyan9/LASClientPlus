@@ -1,9 +1,0 @@
-{
-  "id" : "fdc86d67ce21424aa7a377657a6d04d9",
-  "name" : "cham_pi_n",
-  "properties" : [ {
-    "name" : "textures",
-    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcxNTUxOTY5NTg5NSwKICAicHJvZmlsZUlkIiA6ICJmZGM4NmQ2N2NlMjE0MjRhYTdhMzc3NjU3YTZkMDRkOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJjaGFtX3BpX24iLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjY4NTBiMTVkODdjM2VhMWIwNjMxMTNjZDNmMDgyYjczM2JiYWJkOTA0OGUxN2JhYmY5MTg1NGFjNGMwODRiYSIKICAgIH0KICB9Cn0="
-  } ],
-  "profileActions" : [ ]
-}

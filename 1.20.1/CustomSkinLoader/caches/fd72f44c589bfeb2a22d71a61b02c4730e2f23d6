@@ -1,9 +1,0 @@
-{
-  "id" : "e1216e6c51984fdd93c0e1d6babb6c23",
-  "name" : "Scattered_leaves",
-  "properties" : [ {
-    "name" : "textures",
-    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcxNDY0MTExNDUwNSwKICAicHJvZmlsZUlkIiA6ICJlMTIxNmU2YzUxOTg0ZmRkOTNjMGUxZDZiYWJiNmMyMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJTY2F0dGVyZWRfbGVhdmVzIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzJhZGI4N2RkN2M4ZmJhOGM1ZjEwOGRlNTc1NDdhY2YzZDVjYTA2ZDIyYWNlZDBmOGE2NmEwOTA1MjdmZjVkZGIiCiAgICB9CiAgfQp9"
-  } ],
-  "profileActions" : [ ]
-}

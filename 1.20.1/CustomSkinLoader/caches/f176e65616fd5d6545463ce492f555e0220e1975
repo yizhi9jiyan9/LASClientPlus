@@ -1,9 +1,0 @@
-{
-  "id" : "2444dda29b064294b1c6b225b9d8d0c6",
-  "name" : "xiaofang",
-  "properties" : [ {
-    "name" : "textures",
-    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcxNDgxODM1NTY3NSwKICAicHJvZmlsZUlkIiA6ICIyNDQ0ZGRhMjliMDY0Mjk0YjFjNmIyMjViOWQ4ZDBjNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4aWFvZmFuZyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82YzE2MGZiZDE2YWRiYzRiZmYyNDA5ZTcwMTgwZDkxMTAwMmFlYmNmYTgxMWViNmVjM2QxMDQwNzYxYWVhNmRkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
-  } ],
-  "profileActions" : [ ]
-}

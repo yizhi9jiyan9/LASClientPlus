@@ -1,9 +1,0 @@
-{
-  "id" : "498237e2d2f740259d53b1239298aaba",
-  "name" : "EXsurber",
-  "properties" : [ {
-    "name" : "textures",
-    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcxNTE3MDc0MTYzOCwKICAicHJvZmlsZUlkIiA6ICI0OTgyMzdlMmQyZjc0MDI1OWQ1M2IxMjM5Mjk4YWFiYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFWHN1cmJlciIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83ODI5ZjhlNDFiYTg2ZDlmMTJkOGE1MmU0MDZjMDUyMWZhMGQxZjc3NWI1YWI4OTlmZTY1NmJlNGRjODNlNmI2IgogICAgfQogIH0KfQ=="
-  } ],
-  "profileActions" : [ ]
-}

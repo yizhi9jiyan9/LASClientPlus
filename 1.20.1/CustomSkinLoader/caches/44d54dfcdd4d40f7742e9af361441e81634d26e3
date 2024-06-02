@@ -1,9 +1,0 @@
-{
-  "id" : "97c0749898fe4b4da91704899db03322",
-  "name" : "mxy_b",
-  "properties" : [ {
-    "name" : "textures",
-    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcxNTUxMDQ0NzgxNiwKICAicHJvZmlsZUlkIiA6ICI5N2MwNzQ5ODk4ZmU0YjRkYTkxNzA0ODk5ZGIwMzMyMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJteHlfYiIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mZDgyNTBmMmEwZTcwODA4YzQxYTA0ZjVhNTUxNjlkMmVmY2Y2OWExMDcwODM0MWE3MDA3Yzg3ZGZlMGRiYTA3IgogICAgfQogIH0KfQ=="
-  } ],
-  "profileActions" : [ ]
-}

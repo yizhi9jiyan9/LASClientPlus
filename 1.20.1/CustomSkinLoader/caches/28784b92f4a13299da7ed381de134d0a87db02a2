@@ -1,9 +1,0 @@
-{
-  "id" : "a5a4879ed2e34732aaa29881ca39d9e7",
-  "name" : "bedcen",
-  "properties" : [ {
-    "name" : "textures",
-    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcxNTQyODE0NTM1NiwKICAicHJvZmlsZUlkIiA6ICJhNWE0ODc5ZWQyZTM0NzMyYWFhMjk4ODFjYTM5ZDllNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJiZWRjZW4iLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2NiM2JhNTJkZGQ1Y2M4MmMwYjA1MGMzZjkyMGY4N2RhMzZhZGQ4MDE2NTg0NmY0NzkwNzk2NjM4MDU0MzNkYiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
-  } ],
-  "profileActions" : [ ]
-}

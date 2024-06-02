@@ -1,9 +1,0 @@
-{
-  "id" : "2d90cc5204df4478be34990ade0b6751",
-  "name" : "TsarevanIV",
-  "properties" : [ {
-    "name" : "textures",
-    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcxNTUxODI1NTAyNCwKICAicHJvZmlsZUlkIiA6ICIyZDkwY2M1MjA0ZGY0NDc4YmUzNDk5MGFkZTBiNjc1MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUc2FyZXZhbklWIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Q3NDE5ZmZmNWI2OGE5OWU0YzBiM2E0MTNkY2E0YWMxMTgyYzAwMzE4ZWUxOWY5ZTE4NTY2ZWZmNWExYjkwYTgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
-  } ],
-  "profileActions" : [ ]
-}

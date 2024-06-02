@@ -1,1 +1,0 @@
-dir *.* /B > modlist.txt

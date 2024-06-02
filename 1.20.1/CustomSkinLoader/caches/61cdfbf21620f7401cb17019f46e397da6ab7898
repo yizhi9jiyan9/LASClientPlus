@@ -1,9 +1,0 @@
-{
-  "id" : "c11a66b70006406fa9e3a7f6028e46e7",
-  "name" : "chaijiaxiugou",
-  "properties" : [ {
-    "name" : "textures",
-    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcxNDczODY3NzI3NywKICAicHJvZmlsZUlkIiA6ICJjMTFhNjZiNzAwMDY0MDZmYTllM2E3ZjYwMjhlNDZlNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJjaGFpamlheGl1Z291IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RjMGZjZmFmMmFhMDQwYTgzZGMwZGU0ZTU2MDU4ZDFiYmIyZWE0MDE1NzUwMWYzZTdkMTVkYzI0NWU0OTMwOTUiCiAgICB9CiAgfQp9"
-  } ],
-  "profileActions" : [ ]
-}

@@ -1,9 +1,0 @@
-{
-  "id" : "bbfbbd75193248a3bb60595696711851",
-  "name" : "ti_hai",
-  "properties" : [ {
-    "name" : "textures",
-    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcxNDU2ODgxMDY2MCwKICAicHJvZmlsZUlkIiA6ICJiYmZiYmQ3NTE5MzI0OGEzYmI2MDU5NTY5NjcxMTg1MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ0aV9oYWkiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTdjMzE4MzAzMDRiNjVhMTMxN2RiNDM3NGM2NGNhM2E0OTNmYzk5MjM2MzVkODNkNmUxYzBjNjBjZGU3MTQ2MiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
-  } ],
-  "profileActions" : [ ]
-}

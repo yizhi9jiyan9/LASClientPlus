@@ -1,6 +1,0 @@
-{
-  "parent": "block/template_pottery_pattern_east",
-  "textures": {
-    "pattern": "minecraft:entity/decorated_pot/danger_pottery_pattern"
-  }
-}

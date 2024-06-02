@@ -1,9 +1,0 @@
-{
-  "id" : "52c0ebcc29a84bcaa495cdcba3153b06",
-  "name" : "Qing_Sensei",
-  "properties" : [ {
-    "name" : "textures",
-    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcxNTE3NTU2NTcwMCwKICAicHJvZmlsZUlkIiA6ICI1MmMwZWJjYzI5YTg0YmNhYTQ5NWNkY2JhMzE1M2IwNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJRaW5nX1NlbnNlaSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mZTdkMTliNTQ4YjkzM2Y5ZWNkM2ZiNDkxNjNkN2Q1ODEyMjg4ZDJkYzg4ZWUwZGVhZDM4Y2Q5ZTEyZjI2YzM4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
-  } ],
-  "profileActions" : [ ]
-}

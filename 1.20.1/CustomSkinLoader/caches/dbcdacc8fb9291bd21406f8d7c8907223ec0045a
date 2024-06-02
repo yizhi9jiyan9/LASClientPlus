@@ -1,9 +1,0 @@
-{
-  "id" : "3deead16ab2c4bb783c69feaad1b248b",
-  "name" : "shengmeng66",
-  "properties" : [ {
-    "name" : "textures",
-    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcxNDcwNjE4NDY2NSwKICAicHJvZmlsZUlkIiA6ICIzZGVlYWQxNmFiMmM0YmI3ODNjNjlmZWFhZDFiMjQ4YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJzaGVuZ21lbmc2NiIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yYTIwMTAxZjI5NmJkNmI1YjdhMTM3M2E0YjI0NTYyMTQ5NDNjOWQ5N2RjZDYyNmY3MTVkNGEwZTA1MjI4NjFjIgogICAgfQogIH0KfQ=="
-  } ],
-  "profileActions" : [ ]
-}

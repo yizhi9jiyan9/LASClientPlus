@@ -1,9 +1,0 @@
-{
-  "id" : "d6a094bfb6a54286a8dee4b1e790e123",
-  "name" : "Bot_Bob",
-  "properties" : [ {
-    "name" : "textures",
-    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcxNTMzOTExMjk5NiwKICAicHJvZmlsZUlkIiA6ICJkNmEwOTRiZmI2YTU0Mjg2YThkZWU0YjFlNzkwZTEyMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJCb3RfQm9iIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2E0ODAxMjg2MzMwYzE4YjkwZTExMzU3MmJhMjA0OGU5ZGFhOGNkMTM3NWZlODRjZDc1NzkwNmU5OTc2MTFjMDYiCiAgICB9CiAgfQp9"
-  } ],
-  "profileActions" : [ ]
-}

@@ -1,9 +1,0 @@
-{
-  "id" : "5305dde206cb49ca93bd328c0d2be8f8",
-  "name" : "HelloiamEric",
-  "properties" : [ {
-    "name" : "textures",
-    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcxNDA1NDAwMzYxMiwKICAicHJvZmlsZUlkIiA6ICI1MzA1ZGRlMjA2Y2I0OWNhOTNiZDMyOGMwZDJiZThmOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJIZWxsb2lhbUVyaWMiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmNlMjdhMmRjZGNmMmE5NWI4MmFkNGY1M2Y2NGEzMTMwMmIxZjg5ZDVhMjdiZDVlNGZhYzRkNmYyOGJjZDY4IgogICAgfQogIH0KfQ=="
-  } ],
-  "profileActions" : [ ]
-}

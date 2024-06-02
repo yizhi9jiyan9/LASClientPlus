@@ -1,9 +1,0 @@
-{
-  "id" : "4c8a5cdf356341feb29b94d7860620c2",
-  "name" : "RCY_QWQ",
-  "properties" : [ {
-    "name" : "textures",
-    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcxNTUxOTgxMDgyNSwKICAicHJvZmlsZUlkIiA6ICI0YzhhNWNkZjM1NjM0MWZlYjI5Yjk0ZDc4NjA2MjBjMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJSQ1lfUVdRIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2UxYTdkOTJmODQzMTE5ODVkYzkxYWVmOTgwYmEwMTI1NGUzZTFiZmU4MmY1ZDI5NjFiZDljNmUxY2U2N2FiMGMiCiAgICB9CiAgfQp9"
-  } ],
-  "profileActions" : [ ]
-}

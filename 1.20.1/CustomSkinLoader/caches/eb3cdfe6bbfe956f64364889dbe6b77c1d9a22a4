@@ -1,9 +1,0 @@
-{
-  "id" : "c0d02bc4f1fb49089ee9201f20d86bfa",
-  "name" : "Chinty_rex",
-  "properties" : [ {
-    "name" : "textures",
-    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcxNDU2ODgxMjE3OCwKICAicHJvZmlsZUlkIiA6ICJjMGQwMmJjNGYxZmI0OTA4OWVlOTIwMWYyMGQ4NmJmYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJDaGludHlfcmV4IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzhlZjRjMjA2MTZhMGIxMDYyMzlhZjFmZTNkMjU1OGJjNTlkNjFlZTIxY2RmOWNjNzIyNTUwYWM4NDVlNzk2ZWEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
-  } ],
-  "profileActions" : [ ]
-}
